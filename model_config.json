@@ -1,0 +1,6 @@
+{"llm_config": {
+    "seed": 42,
+    "temperature": 0,
+    "config_list": "$config_list",
+    "timeout": 120
+}}

@@ -1,0 +1,8 @@
+pyautogen==0.7.1
+autogen-agentchat~=0.2
+groq==0.15.0
+numexpr==2.10.2
+flaml[automl]
+websocket-client==1.8.0
+numpy==1.26.4
+panel==1.5.5

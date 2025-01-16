@@ -11,7 +11,8 @@ Create a virtual environment with Python==3.13.1.
 Install requirements.txt and 
 run the command panel serve app.py
 
-This will start the panel server in your localhost and the interactive chatbot will be up and running. Send your queries and the agent will respond accordingly!
+This will start the panel server in your localhost and the interactive chatbot will be up and running. Send your queries and the agent will respond accordingly!.
+
 Example query to test:
 
 Hello, My TV is not working, I could see only a blue screen. Please help!
